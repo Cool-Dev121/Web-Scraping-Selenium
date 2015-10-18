@@ -1,0 +1,10 @@
+#####
+Link to Download Chromedriver
+#####
+
+Please go to this link and download Chromedriver according to your system and place it in the same folder in which you have following files.
+in.txt
+Selenium.py
+
+Link to download Chromedriver:
+http://chromedriver.storage.googleapis.com/index.html?path=2.10/
