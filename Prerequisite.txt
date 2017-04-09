@@ -1,4 +1,1 @@
-#####
-# Link to Download Chromedriver
-#####
-http://chromedriver.storage.googleapis.com/index.html?path=2.10/
+selenium>=2.0,<=3.0
